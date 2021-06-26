@@ -15,3 +15,5 @@ In model building I have covered almost all data science concepts such as data l
 3. Pandas for data cleaning; 
 4. Matplotlib for data visualization; 
 5. Sklearn for model building 
+
+Build Power BI report on Global Super Store Dataset . Visualization shows sales, quantities & profit made in different regions of different categories of products.  LINK- linkedin.com/in/Ayush-k-singh
